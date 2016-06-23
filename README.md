@@ -8,9 +8,9 @@ How to use
 
 	then, set up the bar hight, lenght, width by calling these function.
 	
-		setHight(current_table,start,end)
-		setLength(current_table,start,end)
-		setWidth(current_table,start,end)
+		current_table.setHight(current_table,start,end)
+		current_table.setLength(current_table,start,end)
+		current_table.setWidth(current_table,start,end)
 
 	Next, set up the incraments which is default of 4 cuts which are numbered 0,1,2,3.
 	three is the full amount and zero there is no bar. To set up the incrament call
