@@ -6,7 +6,7 @@
 	
 	first, creat a new varaibale and call holostats.new()
 		```lua
-		current_table = holostats.new();
+		current_table = holostats.new()
 		```
 
 	then, set up the bar hight, lenght, width by calling these function.
