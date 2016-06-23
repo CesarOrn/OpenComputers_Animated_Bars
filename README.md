@@ -5,7 +5,7 @@
 # How to use:
 	
 	first, creat a new varaibale and call holostats.new()
-		```lua
+		```
 		current_table = holostats.new()
 		```
 
