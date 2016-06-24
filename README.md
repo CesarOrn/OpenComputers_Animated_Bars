@@ -1,6 +1,6 @@
 # OpenComputers_Animated_Bars
 
-
+[Example of how the animations look.](https://www.youtube.com/watch?v=vTWH2TauvcI)
 
 ## How to use:
 	
